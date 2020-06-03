@@ -87,7 +87,7 @@ public class Stackk {
         return (top[sn] == -1); 
     } 
 
-} 
+
 
 
 	public static void main(String[] args) {
