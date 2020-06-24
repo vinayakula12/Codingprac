@@ -13,6 +13,7 @@ public static void remdup(int ar[]) {
 	}
 	for(Entry<Integer, Integer> entry:hs.entrySet()){
 		System.out.print(entry.getKey()+" ");
+		
 	}
 }
 	public static void main(String[] args) {
